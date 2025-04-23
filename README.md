@@ -16,3 +16,5 @@ Problem Statement: Write a Python program that:
 4.   Prints both the extracted list and the reversed list
 
 
+How to Run
+python task1.py python task2.py
